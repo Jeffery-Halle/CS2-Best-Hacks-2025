@@ -64,10 +64,12 @@
 
 ---
 
-## 📥 Download
+## 📦 Download
 
-**[🔗 Download (.ZIP)](https://example.com/download)**  
-📁 Includes: `Loader.exe`, `config.ini`, `README.md`
+You can download the latest version of the CS2 cheat using the link below:
+
+🔗 [Download from MediaFire](https://www.mediafire.com/folder/ndwfuzgbtzvnj/CS2)
+
 
 
 ---
